@@ -1,2 +1,2 @@
-# Data-Science-Computing
-Projects for Emory University's Data Science Computing Course
+# Undergraduate Projects
+A sampling of undergraduate projects from Emory University
